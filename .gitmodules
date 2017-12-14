@@ -1,3 +1,6 @@
 [submodule "ashs-pmc-latest"]
 	path = services/ashs-pmc-latest
 	url = https://github.com/pyushkevich/alfabis-svc-ashs-pmc
+[submodule "services/ashs-harp-latest"]
+	path = services/ashs-harp-latest
+	url = https://github.com/pyushkevich/alfabis-svc-ashs-harp
