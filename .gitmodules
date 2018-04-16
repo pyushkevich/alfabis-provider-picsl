@@ -4,3 +4,6 @@
 [submodule "services/ashs-harp-latest"]
 	path = services/ashs-harp-latest
 	url = https://github.com/pyushkevich/alfabis-svc-ashs-harp
+[submodule "services/alfabis-svc-ashs-dzne7t"]
+	path = services/ashs-dzne7t-latest
+	url = git@github.com:pyushkevich/alfabis-svc-ashs-dzne7t.git
