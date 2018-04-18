@@ -7,3 +7,6 @@
 [submodule "services/alfabis-svc-ashs-dzne7t"]
 	path = services/ashs-dzne7t-latest
 	url = git@github.com:pyushkevich/alfabis-svc-ashs-dzne7t.git
+[submodule "services/alfabis-svc-ashs-utrecht"]
+	path = services/ashs-utrecht-latest
+	url = git@github.com:pyushkevich/alfabis-svc-ashs-utrecht.git
