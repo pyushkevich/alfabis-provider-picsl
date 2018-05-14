@@ -16,3 +16,6 @@
 [submodule "services/aloha-latest"]
 	path = services/aloha-latest
 	url = git@github.com:sandhitsu/alfabis-svc-aloha.git
+[submodule "services/ashs-t1mtl-latest"]
+	path = services/ashs-t1mtl-latest
+	url = git@github.com:LongXie/alfabis-svc-ashs-t1mtl.git
