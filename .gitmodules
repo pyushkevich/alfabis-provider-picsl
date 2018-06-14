@@ -19,3 +19,6 @@
 [submodule "services/ashs-t1mtl-latest"]
 	path = services/ashs-t1mtl-latest
 	url = git@github.com:LongXie/alfabis-svc-ashs-t1mtl.git
+[submodule "services/ashs-t1mtl-7t-latest"]
+	path = services/ashs-t1mtl-7t-latest
+	url = https://github.com/LongXie/alfabis-svc-ashs-7t-t1mtl.git
